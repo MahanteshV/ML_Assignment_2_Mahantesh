@@ -81,7 +81,7 @@ def load_bundled_test_data() -> pd.DataFrame:
 
 @st.cache_resource
 def load_model(file_name: str):
-    return joblib.load(ROOT / "model" / file_name)
+    return joblib.load(ROOT / file_name)
 
 
 def validate_input(data: pd.DataFrame, required_features: list[str]) -> tuple[bool, list[str]]:
