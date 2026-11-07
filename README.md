@@ -4,8 +4,8 @@ A reproducible machine-learning classification project for **BITS WILP M.Tech (A
 
 > **Submission fields to update**
 >
-> - GitHub repository: `PASTE_GITHUB_REPOSITORY_URL_HERE`
-> - Live Streamlit application: `PASTE_STREAMLIT_APP_URL_HERE`
+> - GitHub repository: "https://github.com/MahanteshV/ML_Assignment_2_Mahantesh/tree/main"
+> - Live Streamlit application: "https://ml-assignment-mahantesh-2026ak05271.streamlit.app/"
 
 ## a. Problem statement
 
@@ -31,7 +31,7 @@ The 30 predictors summarize radius, texture, perimeter, area, smoothness, compac
 
 ## c. GitHub Repository Link
 
-**Repository:** `PASTE_GITHUB_REPOSITORY_URL_HERE`
+**Repository:** "https://github.com/MahanteshV/ML_Assignment_2_Mahantesh/tree/main"
 
 Required repository contents are included:
 
